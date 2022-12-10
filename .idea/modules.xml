@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AllMVCStackDmeo/AllMVCStackDmeo.iml" filepath="$PROJECT_DIR$/AllMVCStackDmeo/AllMVCStackDmeo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllReactiveStackDemo/AllReactiveStackDemo.iml" filepath="$PROJECT_DIR$/AllReactiveStackDemo/AllReactiveStackDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WebFluxProjact.iml" filepath="$PROJECT_DIR$/.idea/WebFluxProjact.iml" />
+    </modules>
+  </component>
+</project>

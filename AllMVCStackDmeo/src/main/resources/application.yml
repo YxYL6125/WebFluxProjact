@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://root:yc6125@43.139.21.49:27017/?authMechanism=SCRAM-SHA-1
+      database: blog
+server:
+  port: 8080
